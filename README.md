@@ -1,1 +1,1 @@
-# Economic-Analysis-of-Sri-Lanka
+# Economy-Analysis-of-Sri-Lanka
